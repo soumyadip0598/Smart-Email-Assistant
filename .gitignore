@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+dist/
+.env
+
+# Java
+target/
+*.log
+
+# Chrome Extension
+*.zip
+
+# System files
+.DS_Store
+Thumbs.db
